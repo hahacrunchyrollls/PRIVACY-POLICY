@@ -1,51 +1,47 @@
-Privacy Policy for FUJI VPN Effective Date: October 23, 2025 Developer Contact: jericoanugal12@gmail.com
+Privacy Policy for FUJI VPN Effective Date: October 24, 2025 Developer Contact: jericoanugal12@gmail.com
 
-FUJI VPN (“we”, “our”, or “us”) is committed to protecting your privacy. This Privacy Policy explains how we handle your data when you use our VPN services.
+At FUJI VPN, developed by Jerico, your privacy is our top priority. This Privacy Policy explains how we collect, use, and protect your information when you use our VPN services.
 
-1. Information We Do Not Collect
-We do not collect or store any personally identifiable information (PII) such as your name, email address, or phone number when you use FUJI VPN.
+🔐 1. Information We Do Not Collect
+FUJI VPN is designed to protect your privacy. We do not collect or store:
 
-We also do not log:
+Your browsing history
 
-Your browsing activity
+Your IP address or DNS queries
 
-Your connection timestamps
+Your connection timestamps or session duration
 
-Your IP address
+Any data transmitted through the VPN tunnel
 
-DNS queries or traffic destination
+We do not log or monitor your online activity. Your internet traffic is encrypted and remains private.
 
-2. Information We May Process
-To maintain and improve service quality, we may process limited, non-identifiable technical data such as:
+📲 2. Information We May Collect
+To provide and improve our services, we may collect:
 
-App crash reports
+App performance data (e.g., crash logs, connection success/failure)
 
-Anonymous usage statistics (e.g., session duration, server load)
+Device information (e.g., device model, OS version) for debugging and compatibility
 
-Device type and OS version
+Anonymous analytics to understand usage trends (optional and non-identifiable)
 
-This data is used solely for performance optimization and troubleshooting.
+We do not associate this data with any personally identifiable information.
 
-3. Third-Party Services
-FUJI VPN may use third-party services (e.g., analytics or crash reporting tools) that comply with strict privacy standards. These services may collect anonymized data as described above but do not access or store your VPN traffic.
+🛡️ 3. How We Use Your Information
+Any data we collect is used solely to:
 
-4. Permissions
-FUJI VPN may request the following permissions:
+Ensure stable and secure VPN connections
 
-VPN Service Access: To establish secure connections
+Improve app performance and user experience
 
-Foreground Service: To maintain active VPN sessions while the app is running
+Fix bugs and optimize compatibility
 
-We do not use these permissions for any purpose other than providing core VPN functionality.
+We do not sell, rent, or share your data with third parties.
 
-5. Security
-We implement industry-standard security measures to protect your data and ensure your online activity remains private and encrypted.
+🌍 4. Third-Party Services
+FUJI VPN may use trusted third-party services (e.g., analytics or crash reporting tools) that adhere to strict privacy standards. These services may collect anonymized data as described above.
 
-6. Children’s Privacy
-FUJI VPN is not intended for use by children under the age of 13. We do not knowingly collect data from children.
+📧 5. Contact and Support
+If you have questions or concerns about this Privacy Policy or your data, please contact us at: 📩 jericoanugal12@gmail.com
 
-7. Changes to This Policy
-We may update this Privacy Policy from time to time. Changes will be posted within the app or on the Play Store listing. Continued use of FUJI VPN after changes implies acceptance of the updated policy.
-
-8. Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact Jerico at: 📧 jericoanugal12@gmail.com
+🔄 6. Policy Updates
+We may update this Privacy Policy from time to time. Any changes will be posted within the app and on the Play Store listing. Continued use of FUJI VPN after updates implies acceptance of the revised policy.
